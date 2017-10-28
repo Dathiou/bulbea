@@ -1,6 +1,6 @@
 # virtualenvs
 .venv
-
+*.pyc
 # docs
 docs/_build
 
